@@ -1,2 +1,3 @@
 # AnkitPatanaik.github.io
-My Website
+
+Made with California love from the mean streets of West Lafayette, Indiana.
